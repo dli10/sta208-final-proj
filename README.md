@@ -6,4 +6,4 @@ The Fashion-MNIST dataset can be found on Kaggle: https://www.kaggle.com/dataset
 
 final_project_svm.ipynb trains SVM on this dataset using different feature extraction methods: PCA, FastICA, and TruncatedSVD. The dataset was also trained with logistic regression as an additional comparison.
 
-Final Project EDA-CNN-ROC.ipynb includes EDA on dataset, multi-calss ROC curves, multi-calss Precision-Recall curves and simple implementation of a CNN model to compare with CNN. 
+Final_Project_EDA_CNN_ROC.ipynb includes EDA on dataset, multi-calss ROC curves, multi-calss Precision-Recall curves and simple implementation of a CNN model to compare with svm performance. 
